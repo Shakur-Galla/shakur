@@ -42,7 +42,7 @@ const Header = () =>{
         animate={{ y: 0 }}
         className="fixed top-0 left-0 right-0 z-50 bg-[#0F0F0F]/90 backdrop-blur-md border-b border-[#D4AF37]/20"
       >
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 ">
           <div className="flex justify-between items-center py-4">
             <motion.div whileHover={{ scale: 1.05 }} className="text-2xl font-bold text-[#D4AF37]">
               Shakur Galla
