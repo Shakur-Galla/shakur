@@ -9,8 +9,8 @@ import Me from '@/public/shakur.jpg'
 const About = () => {
   return (
     <>
-      <section id="about" className="py-20 bg-[#1A1A1A] py-24">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+      <section id="about" className="py-20 bg-[#1A1A1A]">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-24">
           <motion.div
             initial={{ opacity: 0, y: 50 }}
             whileInView={{ opacity: 1, y: 0 }}
