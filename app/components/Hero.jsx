@@ -49,10 +49,10 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.6, duration: 0.8 }}
             >
-              I'm a passionate and detail-oriented full-stack developer with a
-              strong focus on building intuitive, high-performance web
+              I'm a passionate mobile and web full-stack developer with a
+              strong focus on building intuitive, high-performance
               applications. I specialize in modern technologies like Next.js,
-              TypeScript, Tailwind CSS, and Node.js, and I bring ideas to life
+              TypeScript, Tailwind CSS, React Native, and Node.js, and I bring ideas to life
               through clean code, thoughtful architecture, and polished UI/UX.
             </motion.p>
 

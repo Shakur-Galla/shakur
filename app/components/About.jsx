@@ -75,9 +75,7 @@ const About = () => {
                 technology and problem solving.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                I believe in the power of clean code, intuitive design, and
-                continuous learning. When I'm not coding, you can find me
-                exploring new technologies, or mentoring aspiring developers.
+                I am obsessed with using tech to solve problems and improve society.
               </p>
 
               <div className="pt-4">
@@ -136,15 +134,6 @@ const About = () => {
                   <div>
                     <p className="font-medium text-gray-900">Backend</p>
                     <p className="text-sm text-gray-600">Node.js & APIs</p>
-                  </div>
-                </div>
-                <div className="flex items-center space-x-3">
-                  <div className="p-2 bg-blue-100 rounded-lg">
-                    <Palette className="w-5 h-5 text-blue-600" />
-                  </div>
-                  <div>
-                    <p className="font-medium text-gray-900">UI/UX Design</p>
-                    <p className="text-sm text-gray-600">User Experience</p>
                   </div>
                 </div>
               </div>

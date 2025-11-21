@@ -92,10 +92,6 @@ const Header = () => {
               )}
 
               <div className="mt-4 pt-4 border-t border-gray-200 px-4 space-y-3">
-                <button className="w-full text-left py-2 text-gray-600 hover:text-gray-900 transition-colors font-medium flex items-center">
-                  <Settings className="w-4 h-4 mr-2" />
-                  Settings
-                </button>
                 <button
                   onClick={() => scrollToSection("contact")}
                   className="w-full py-2.5 bg-gray-900 text-white text-center font-medium rounded-md hover:bg-gray-800 transition-colors"
